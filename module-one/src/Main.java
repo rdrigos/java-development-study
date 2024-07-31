@@ -11,7 +11,7 @@ public class Main {
         System.out.println("/ --> Division");
         System.out.println("& --> Remainder of division (\"mod\")");
 
-        // Variables
+        // Variable Definition
         System.out.println("\nHow can I define a variable?");
         System.out.println("<type> <name> = <variable value (optional)>, EX: String username = \"Rafael Drigo\";");
         String username = "Rafael Drigo";
